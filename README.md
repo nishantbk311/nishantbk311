@@ -1,4 +1,4 @@
-![Profile Views](https://img.shields.io/badge/Profile%20%20Views-nishantbk311-7B2CBF?labelColor=000000&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=nishantbk311&label=Profile%20%20Views&color=7B2CBF&labelColor=000000&style=flat-square)
 
 # 💫 About Me:
 🔭 I’m currently working on Web Projects<br>🌱 I’m currently learning Next.js<br>💬 Ask me about Web development<br>⚡ Fun fact: My code doesn't have bugs; it just has 'unintended features' that I haven't documented yet."
