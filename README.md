@@ -1,5 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=nishantbk311&label=Profile%20%20Views&color=7B2CBF&labelColor=000000&style=flat-square)<br/>
-<h1>Hello, <img src="https://media.tenor.com/0CpFOKGVaeMAAAAj/hand-waving-hand.gif" alt="Hand Waving" width="30" /> </h1>
+<h1>Hello<img src="https://media.tenor.com/0CpFOKGVaeMAAAAj/hand-waving-hand.gif" alt="Hand Waving" width="30" /> </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=35&pause=1000&width=620&lines=Dedicated+Full-Stack+Web+Developer)](https://git.io/typing-svg)<br/>
 🔭 I’m currently working on Web Projects<br>🌱 I’m currently learning Next.js<br>💬 Ask me about Web development<br>⚡ Fun fact: My code doesn't have bugs; it just has 'unintended features' that I haven't documented yet."
