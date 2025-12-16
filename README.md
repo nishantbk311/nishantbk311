@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=nishantbk311&label=Profile%20%20Views&color=7B2CBF&labelColor=000000&style=flat-square)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=35&pause=1000&width=450&lines=Dedicated+Full-Stack+Web+Developer)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=35&pause=1000&width=435&lines=Dedicated+Full-Stack+Web+Developer)](https://git.io/typing-svg)
 # 💫 About Me:
