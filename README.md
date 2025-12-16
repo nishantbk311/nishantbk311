@@ -1,3 +1,5 @@
+![Profile Views](https://img.shields.io/badge/Profile%20%20Views-nishantbk311-7B2CBF?labelColor=000000&style=flat)
+
 # 💫 About Me:
 🔭 I’m currently working on Web Projects<br>🌱 I’m currently learning Next.js<br>💬 Ask me about Web development<br>⚡ Fun fact: My code doesn't have bugs; it just has 'unintended features' that I haven't documented yet."
 
@@ -13,6 +15,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantbk311&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=nishantbk311&label=👀%20Profile%20Views&color=blue)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
