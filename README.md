@@ -4,7 +4,7 @@
 🔭 I’m currently working on Web Projects<br>🌱 I’m currently learning Next.js<br>💬 Ask me about Web development<br>⚡ Fun fact: My code doesn't have bugs; it just has 'unintended features' that I haven't documented yet."
 
 
-## 🌐 Socials:
+## 🌐 Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-bk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bknishant311@gmail.com) 
 
 # 💻 Tech Stack:
